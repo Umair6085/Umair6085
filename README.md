@@ -1,8 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 
 # Welcome to My Front-End Playground! 👋
 
-Greetings, fellow code traveler! I'm [Your Name], a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. Welcome to my GitHub repository, where lines of code come to life! 🚀
+Greetings, fellow code traveler! I'm Muhammad Umair, a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. Welcome to my GitHub repository, where lines of code come to life! 🚀
 
 ## 🛠️ Technologies & Tools:
 
@@ -24,7 +24,7 @@ I believe in writing clean, maintainable code that not only solves problems but 
 
 ## 📚 Let's Connect:
 
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/in/muhammad-umair-8412b8201/))
+- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/muhammad-umair-8412b8201/])
 - Twitter: [Your Twitter Profile](https://twitter.com)
 
 Feel free to explore, fork, and collaborate on any of the projects here. If you have any questions, suggestions, or just want to geek out about front-end development, don't hesitate to reach out! 🌟
