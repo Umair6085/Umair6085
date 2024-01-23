@@ -22,6 +22,7 @@ I believe in writing clean, maintainable code that not only solves problems but 
 
 ## 📚 Let's Connect:
 
+- Gmail: [My Email](mailto:umairyasin744@gmail.com)
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/muhammad-umair-8412b8201/)
 - Twitter: [My Twitter](https://twitter.com)
 
