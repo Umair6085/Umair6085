@@ -1,8 +1,6 @@
-## Hi there 👋
+# Hi there 👋 Welcome to My Front-End Playground!
 
-# Welcome to My Front-End Playground! 👋
-
-Greetings, fellow code traveler! I'm Muhammad Umair, a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. Welcome to my GitHub repository, where lines of code come to life! 🚀
+Greetings, fellow code traveler! I'm **Muhammad Umair**, a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. Welcome to my GitHub repository, where lines of code come to life! 🚀
 
 ## 🛠️ Technologies & Tools:
 
