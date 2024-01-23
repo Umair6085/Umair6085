@@ -2,6 +2,8 @@
 
 Greetings, fellow code traveler! I'm **Muhammad Umair**, a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. Welcome to my GitHub repository, where lines of code come to life! 🚀
 
+[![](https://visitcount.itsvg.in/api?id=umair6085&icon=1&color=3)](https://visitcount.itsvg.in)
+
 ## 🛠️ Technologies & Tools:
 
 - 💻 **HTML5:** Crafting the structure of the digital canvas.
@@ -66,4 +68,12 @@ I believe in writing clean, maintainable code that not only solves problems but 
 Feel free to explore, fork, and collaborate on any of the projects here. If you have any questions, suggestions, or just want to geek out about front-end development, don't hesitate to reach out! 🌟
 
 Happy coding! 🚀
+
+## 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=umair6085&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=umair6085&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair6085&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
