@@ -8,9 +8,11 @@ Greetings, fellow code traveler! I'm **Muhammad Umair**, a passionate front-end 
 
 - 💻 **HTML5:** Crafting the structure of the digital canvas.
 - 🎨 **CSS3:** Adding style and flair to bring designs to life.
-- 🚀 **JavaScript:** The wizardry behind dynamic and interactive experiences.
 - 🅱️ **Bootstrap:** Building responsive and visually appealing layouts.
+- 🌈 **Sass**: Elevating stylesheets with the power of pre-processing.
 - 🌐 **Git & GitHub:** Navigating the version control seas like a captain.
+- 🚀 **JavaScript:** The wizardry behind dynamic and interactive experiences.
+- 🤖 **C & C++**: Diving into the realms of lower-level languages for robust solutions.
 
 ###
 
@@ -70,8 +72,8 @@ Feel free to explore, fork, and collaborate on any of the projects here. If you 
 Happy coding! 🚀
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=umair6085&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=umair6085&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=umair6085&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=umair6085&theme=dark&hide_border=false)<br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umair6085&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## ✍️ Random Dev Quote
