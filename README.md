@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to My Front-End Playground!
 
-Greetings, fellow code traveler! I'm **Muhammad Umair**, a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. Welcome to my GitHub repository, where lines of code come to life! 🚀
+Greetings, fellow code traveler! I'm **Muhammad Umair**, a passionate front-end developer on a mission to create beautiful, engaging, and user-friendly digital experiences. I have also solved 150+ LeetCode problems in Python. Welcome to my GitHub repository, where lines of code come to life! 🚀
 
 [![](https://visitcount.itsvg.in/api?id=umair6085&icon=1&color=3)](https://visitcount.itsvg.in)
 
@@ -12,6 +12,8 @@ Greetings, fellow code traveler! I'm **Muhammad Umair**, a passionate front-end 
 - 🌈 **Sass**: Elevating stylesheets with the power of pre-processing.
 - 🌐 **Git & GitHub:** Navigating the version control seas like a captain.
 - 🚀 **JavaScript:** The wizardry behind dynamic and interactive experiences.
+- 💡 **Python:** The versatile language for data manipulation, automation, and backend development.
+- 🧩 LeetCode: Mastering algorithms and data structures through consistent problem-solving and challenges.
 - 🤖 **C & C++**: Diving into the realms of lower-level languages for robust solutions.
 
 ###
